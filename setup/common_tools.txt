@@ -1,0 +1,7 @@
+Setup and common tools for team work environment:
+
++ Python 2.7: Installation via Anaconda2
++ Development editor: Pycharm (community version)
++ Research editor: Jupiter notebooks
++ Version control/Collaboration: Git/GitHub
+
